@@ -1,0 +1,173 @@
+body
+{
+    background-color: #EFF0F5;
+}
+.product
+{
+    background-color: #fff;
+}
+#width
+{
+    width: 250px;
+    background-color: #E52E04;
+}
+
+.btn1
+{
+    background-color: #FBE4E8;
+    color: #E52E04 !important;
+    font-size: 11px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#icons
+{
+    width: 30px;
+    height: 30px;
+}
+
+.product-title h3
+{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#silver
+{
+     font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #707070;
+}  
+
+.seller h6 , .product-price .silver-text
+{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #707070;
+}
+.product-price .dis-price ,.dis-price
+{
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #E52E04;
+
+}
+.seller h5
+{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+#quantity
+{    
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background-color: #EFF0F5;
+    cursor: pointer;
+}
+.buttons .btn-add
+{
+color: #E52E04;
+background-color: #FBE4E8;
+font-size: 13px;
+text-decoration: none !important;
+box-shadow: none !important;
+
+}
+.buttons .btn-buy
+{
+color: #fff;
+background-color: #E52E04;
+font-size: 13px;
+text-decoration: none !important;
+box-shadow: none !important;
+
+}
+
+.star-rating form {
+    display: none;
+}
+.star-rating .thanks-msg {
+    display: none;
+    font-size: 20px;
+    margin: 40px auto;
+    color: #4caf50;
+    background-color: rgba(76, 175, 80, 0.1411764705882353);
+    padding: 8px 20px;
+    border-left: 3px solid #4caf50;
+    border-radius: 20px;
+}
+.star-rating input {
+    display: none;
+}
+.star-rating {
+   
+    display: table;
+    
+}
+.star-rating label {
+    padding: 3px;
+    font-size: 15px;
+    color: #eee;
+    float: right;
+}
+.star-rating input:not(:checked) ~ label:hover,
+.star-rating input:not(:checked) ~ label:hover ~ label {
+    color: #F8E812;
+    text-align: center;
+}
+.star-rating input:checked ~ label {
+    color: #F8E812;
+   
+}
+.star-rating form .rating-reaction:before {
+    width: 100%;
+   
+    color: #F8E812;
+}
+.star-rating #rating-1:checked ~ form .rating-reaction:before {
+    content: "I hate it";
+}
+.star-rating #rating-2:checked ~ form .rating-reaction:before {
+    content: "I don't like it";
+}
+.star-rating #rating-3:checked ~ form .rating-reaction:before {
+    content: "It is good";
+}
+.star-rating #rating-4:checked ~ form .rating-reaction:before {
+    content: "I like it";
+}
+.star-rating #rating-5:checked ~ form .rating-reaction:before {
+    content: "I love it";
+}
+.star-rating input:checked ~ form {
+    border-top: 1px solid #ddd;
+    width: 100%;
+    padding-top: 15px;
+    margin-top: 15px;
+    display: inline-block;
+}
+.star-rating form .rating-reaction {
+    font-size: 24px;
+    float: left;
+    text-transform: capitalize;
+}
+.star-rating form .submit-rating {
+    border: none;
+    outline: none;
+    background: #795548;
+    color: #F8E812;
+    font-size: 18px;
+    border-radius: 4px;
+    padding: 5px 15px;
+    cursor: pointer;
+    float: right;
+}
+form .submit-rating:hover {
+    background-color: #333;
+}

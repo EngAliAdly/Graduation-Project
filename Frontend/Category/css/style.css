@@ -1,0 +1,126 @@
+
+.category
+{
+    height: 100vh;
+    background-color: #EFEFF1;
+    position: relative;
+}
+.overlay
+{
+    background-color: transparent;
+    width: 100%;
+    height:100%;
+    position:absolute;
+    z-index: 99999999;
+}
+.logo-nav
+{
+    width: 15%;
+    height: 100%;
+}
+.clearcashe
+{
+    background-color: #FBE4E8!important;
+    color: #F15C74 !important;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-color: #FBE4E8 !important;
+    box-shadow: none !important ;
+    
+
+}
+.icon-caption h5
+{
+    font-size: 13px;
+    font-family: 'Segoe UI';
+    color: #040404;
+
+    
+}
+.icon-caption h6
+{
+  
+    font-family: 'Segoe UI';
+    font-size: 12px;
+    line-height: .5;
+    color: #040404;
+
+    
+}
+.logo-nav
+{
+    background-color: #1A1A26;
+   
+}
+.allcategory
+{
+    width: 68%;
+}
+.allcategory button
+{
+    background-color: #F67A0C;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+.allcategory h4 
+{
+    
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.categories
+{
+    background-color: white;
+    width: 66%;
+
+}
+.categories h4 
+{
+    
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+/* add category */
+.addcategory{
+    background-color:#EFF0F5 ;
+    height: 100vh;
+}
+.addcat
+{
+    background-color: white;
+    
+}
+.addcat h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.form-group .submit
+{
+    background-color: #F77B0A; color: #fff;
+
+}
+.form-group input
+{
+    box-shadow: white !important;
+}
+.form-control:focus {
+    border-color: orangered;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px orangered;
+  }
+ .form-group label 
+ {
+     color: black;
+     font-size: 14px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+ }

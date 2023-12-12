@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    box-sizing: border-box;
+}
+ h1{
+     color:rgb(0, 0, 0);
+     text-align: left;
+ }
+
+main .continer{
+
+    height: 400px;
+    width: 250px;
+    border:1px solid rgb(204, 204, 204);
+    margin: 20px;
+    display:inline-block;
+}
+
+.item{
+    border:1px solid rgb(204, 204, 204);
+    width: 230px;
+    height: 320px;
+    margin:10px auto;
+
+}
+.imgItem{
+    height:200px ;
+    margin: 10px auto;
+    
+}
+
+#price{
+    display: block;
+    margin: 7px;
+    font-size: 25px;
+    color:rgb(233, 36, 36);
+}
+
+#addtocardbutton{
+    background-color: #e52e04;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 10px;
+    margin: 10px auto;
+    border: none;
+    display: inline-block;
+}
+#deletebutton{
+    background-color: #e52e04;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 10px;
+    margin: 10px auto;
+    border: none;
+    display: inline-block;
+}
+
+#deletebutton:hover{
+    background-color: #ce2c07;
+}
+#addtocardbutton:hover{
+    background-color: #ce2c07;
+}

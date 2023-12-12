@@ -1,0 +1,3686 @@
+.mediaViewInfo {
+		--web-view-name: All Products;
+		--web-view-id: All_Products;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: All_Products;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#All_Products {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(239,240,245,1);
+		overflow: hidden;
+		--web-view-name: All Products;
+		--web-view-id: All_Products;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Left-Bar {
+		position: absolute;
+		width: 263px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_1 {
+		fill: rgba(21,20,34,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		overflow: visible;
+		position: absolute;
+		width: 263px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_4 {
+		fill: rgba(26,26,38,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 261px;
+		height: 59px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Search {
+		position: absolute;
+		width: 227px;
+		height: 40px;
+		left: 17px;
+		top: 77px;
+		overflow: visible;
+	}
+	#Search_rectangle {
+		fill: rgba(40,42,57,1);
+	}
+	.Search_rectangle {
+		position: absolute;
+		overflow: visible;
+		width: 227px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Search_in_menu_ {
+		opacity: 0.5;
+		left: 15px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Home_Icon {
+		position: absolute;
+		width: 14px;
+		height: 14px;
+		left: 0px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Products {
+		position: absolute;
+		width: 261px;
+		height: 405px;
+		left: 1px;
+		top: 173px;
+		overflow: visible;
+	}
+	#Products_v {
+		opacity: 0.9;
+		position: absolute;
+		width: 261px;
+		height: 38px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(28,27,42,1);
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 38px;
+		left: 0px;
+		top: 0px;
+	}
+	#Cart-Icon {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 17px;
+		top: 7px;
+		overflow: visible;
+	}
+	#Products_y {
+		mix-blend-mode: lighten;
+		left: 41px;
+		top: 8px;
+		position: absolute;
+		overflow: visible;
+		width: 62px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 225px;
+		top: 11px;
+		overflow: visible;
+	}
+	#Products_Open_List {
+		position: absolute;
+		width: 261px;
+		height: 357px;
+		left: 0px;
+		top: 48px;
+		overflow: visible;
+	}
+	#add_new_products {
+		opacity: 0.5;
+		position: absolute;
+		width: 122px;
+		height: 16px;
+		left: 34px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Add_New_Products_ {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 112px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#all_products {
+		opacity: 0.9;
+		position: absolute;
+		width: 261px;
+		height: 33px;
+		left: 0px;
+		top: 26px;
+		overflow: visible;
+	}
+	#Rectangle_21 {
+		fill: rgba(28,27,42,1);
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 33px;
+		left: 0px;
+		top: 0px;
+	}
+	#All_products_ {
+		left: 44px;
+		top: 5px;
+		position: absolute;
+		overflow: visible;
+		width: 74px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_ {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 33px;
+		top: 10px;
+		overflow: visible;
+	}
+	#in_house_products {
+		opacity: 0.5;
+		position: absolute;
+		width: 121px;
+		height: 16px;
+		left: 34px;
+		top: 62px;
+		overflow: visible;
+	}
+	#In_House_Products_ {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_ba {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#seller_products {
+		opacity: 0.5;
+		position: absolute;
+		width: 101px;
+		height: 16px;
+		left: 34px;
+		top: 93px;
+		overflow: visible;
+	}
+	#Seller_Products_bc {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bd {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#digital_products {
+		opacity: 0.5;
+		position: absolute;
+		width: 108px;
+		height: 16px;
+		left: 34px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Digital_Products_bf {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bg {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#bullk_import {
+		opacity: 0.5;
+		position: absolute;
+		width: 81px;
+		height: 16px;
+		left: 34px;
+		top: 155px;
+		overflow: visible;
+	}
+	#Bulk_Import {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bj {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#bulk_export {
+		opacity: 0.5;
+		position: absolute;
+		width: 79px;
+		height: 16px;
+		left: 34px;
+		top: 186px;
+		overflow: visible;
+	}
+	#Bulk_Export_bl {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bm {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#category {
+		opacity: 0.5;
+		position: absolute;
+		width: 65px;
+		height: 16px;
+		left: 34px;
+		top: 217px;
+		overflow: visible;
+	}
+	#Category_bo {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bp {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#brand {
+		opacity: 0.5;
+		position: absolute;
+		width: 45px;
+		height: 16px;
+		left: 34px;
+		top: 248px;
+		overflow: visible;
+	}
+	#Brand_br {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 35px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bs {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#attribue {
+		opacity: 0.5;
+		position: absolute;
+		width: 65px;
+		height: 16px;
+		left: 34px;
+		top: 279px;
+		overflow: visible;
+	}
+	#Attribute {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_bv {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#colors {
+		opacity: 0.5;
+		position: absolute;
+		width: 49px;
+		height: 16px;
+		left: 33px;
+		top: 310px;
+		overflow: visible;
+	}
+	#Colors_bx {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_by {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#products_reviews {
+		opacity: 0.5;
+		position: absolute;
+		width: 109px;
+		height: 16px;
+		left: 34px;
+		top: 341px;
+		overflow: visible;
+	}
+	#Product_Reviews {
+		left: 11px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#List-Circle-Icon_b {
+		position: absolute;
+		width: 6px;
+		height: 6px;
+		left: 0px;
+		top: 5px;
+		overflow: visible;
+	}
+	#sales {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 598px;
+		overflow: visible;
+	}
+	#sales_b {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_b {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Sales_b {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 36px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2 {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#customers {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 639px;
+		overflow: visible;
+	}
+	#customers_b {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_ca {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Customers_ca {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_cb {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#sellers {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 680px;
+		overflow: visible;
+	}
+	#sellers_cd {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_ce {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Sellers_cf {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_cg {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#uploading_files {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 721px;
+		overflow: visible;
+	}
+	#uploading_files_ci {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_cj {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Uploading_Files_ck {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 110px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_cl {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#reports {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 762px;
+		overflow: visible;
+	}
+	#reports_cn {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_co {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Reports_cp {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 54px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_cq {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#blog_system {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 803px;
+		overflow: visible;
+	}
+	#blog_system_cs {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_ct {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Blog_System_cu {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 86px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_cv {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#marketing {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 844px;
+		overflow: visible;
+	}
+	#marketing_cx {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_cy {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Marketing_cz {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 72px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_c {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#support_ {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 885px;
+		overflow: visible;
+	}
+	#support__c {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_c {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Support {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 57px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_da {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#website_setup {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 926px;
+		overflow: visible;
+	}
+	#website_setup_c {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_da {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Website_Setup_c {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_db {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#setupconfig {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 967px;
+		overflow: visible;
+	}
+	#setupconfig_dc {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_dd {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Setup__Configurations {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_df {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#staffs {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 1008px;
+		overflow: visible;
+	}
+	#staffs_dh {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_di {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Staffs_dj {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_dk {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#system {
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 17px;
+		top: 1049px;
+		overflow: visible;
+	}
+	#system_dm {
+		opacity: 0.5;
+		position: absolute;
+		width: 224px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cart-Icon_dn {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#System_do {
+		opacity: 0.9;
+		mix-blend-mode: lighten;
+		left: 24px;
+		top: 1px;
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 0.7px;
+	}
+	#Arrow-Icon2_dp {
+		position: absolute;
+		width: 15px;
+		height: 15px;
+		left: 209px;
+		top: 4px;
+		overflow: visible;
+	}
+	#logo {
+		opacity: 0.9;
+		position: absolute;
+		width: 100px;
+		height: 51px;
+		left: 73px;
+		top: 7px;
+		overflow: visible;
+	}
+	#logo_dr {
+		position: absolute;
+		width: 100px;
+		height: 51px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Top-Bar {
+		position: absolute;
+		width: 1657px;
+		height: 72.988px;
+		left: 263px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Path_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_2 {
+		filter: drop-shadow(0px 3px 30px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 1747px;
+		height: 162.988px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#User {
+		position: absolute;
+		width: 214px;
+		height: 46px;
+		left: 1422px;
+		top: 13px;
+		overflow: visible;
+	}
+	#UserPhoto-Icon {
+		position: absolute;
+		width: 44px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#projectteamanaqacom {
+		left: 52px;
+		top: 6px;
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(4,4,4,1);
+		letter-spacing: 0.7px;
+	}
+	#admin {
+		opacity: 0.7;
+		left: 52px;
+		top: 27px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(4,4,4,1);
+		letter-spacing: 0.7px;
+	}
+	#Language {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 1378px;
+		top: 27px;
+		overflow: visible;
+	}
+	#Notification-Icon {
+		position: absolute;
+		width: 20px;
+		height: 20px;
+		left: 1324px;
+		top: 26px;
+		overflow: visible;
+	}
+	#ClearCashe {
+		position: absolute;
+		width: 123px;
+		height: 37px;
+		left: 132px;
+		top: 18px;
+		overflow: visible;
+	}
+	#Rectangle_5 {
+		fill: rgba(251,228,232,1);
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 123px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Clear_Cashe {
+		left: 23px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(241,92,116,1);
+		letter-spacing: 1px;
+	}
+	#Group_34 {
+		position: absolute;
+		width: 1604.345px;
+		height: 877px;
+		left: 292.655px;
+		top: 110px;
+		overflow: visible;
+	}
+	#All_Products_Body {
+		position: absolute;
+		width: 1604.345px;
+		height: 877px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#All_products_d {
+		left: 0.345px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rectangle_6 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 1604px;
+		height: 782px;
+		left: 0.345px;
+		top: 95px;
+	}
+	#All_products_ea {
+		left: 25.345px;
+		top: 128px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Type_and_enter {
+		position: absolute;
+		width: 165px;
+		height: 37px;
+		left: 1401.345px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(200,200,200,1);
+		stroke-width: 0.800000011920929px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Type__Enter {
+		opacity: 0.5;
+		left: 15px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 82px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#lines {
+		position: absolute;
+		width: 1604.345px;
+		height: 625.655px;
+		left: 0px;
+		top: 178.212px;
+		overflow: visible;
+	}
+	#Path_6 {
+		opacity: 0.3;
+		fill: rgba(0,0,0,0);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Path_6 {
+		overflow: visible;
+		position: absolute;
+		width: 1604.351px;
+		height: 9.825px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 12.679px;
+		top: 68.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 12.679px;
+		top: 138.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_4 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_4 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 12.679px;
+		top: 208.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_5 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 12.679px;
+		top: 278.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_6 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_6 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 12.679px;
+		top: 348.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_8 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_8 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 15.179px;
+		top: 415.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_9 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_9 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 15.179px;
+		top: 485.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_10 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_10 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 15.179px;
+		top: 555.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_11 {
+		opacity: 0.2;
+		fill: transparent;
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_11 {
+		overflow: visible;
+		position: absolute;
+		width: 1564.019px;
+		height: 1px;
+		left: 15.179px;
+		top: 625.655px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Name {
+		position: absolute;
+		width: 113px;
+		height: 653px;
+		left: 98.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Name_en {
+		left: 34px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 45px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 52px;
+		overflow: visible;
+	}
+	#Product_1 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_16 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 122px;
+		overflow: visible;
+	}
+	#Product_2 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_et {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_17 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 192px;
+		overflow: visible;
+	}
+	#Product_3 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_ew {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_18 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 262px;
+		overflow: visible;
+	}
+	#Product_4 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_ez {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_19 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 332px;
+		overflow: visible;
+	}
+	#Product_5 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_e {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_20 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 402px;
+		overflow: visible;
+	}
+	#Product_6 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_fa {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_21 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 472px;
+		overflow: visible;
+	}
+	#Product_7 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_fb {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_22 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 542px;
+		overflow: visible;
+	}
+	#Product_8 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_fc {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_23 {
+		position: absolute;
+		width: 113px;
+		height: 41px;
+		left: 0px;
+		top: 612px;
+		overflow: visible;
+	}
+	#Product_9 {
+		left: 47px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 67px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#unavilable-photo_fe {
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Options {
+		position: absolute;
+		width: 121px;
+		height: 644px;
+		left: 1443.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 67px;
+		overflow: visible;
+	}
+	#View-Icon {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Options_fl {
+		left: 30px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 62px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Group_25 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 135px;
+		overflow: visible;
+	}
+	#View-Icon_fn {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_fo {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_fp {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_fq {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_26 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 203px;
+		overflow: visible;
+	}
+	#View-Icon_fs {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_ft {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_fu {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_fv {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_27 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 271px;
+		overflow: visible;
+	}
+	#View-Icon_fx {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_fy {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_fz {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_f {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_28 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 341px;
+		overflow: visible;
+	}
+	#View-Icon_f {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_f {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_f {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_ga {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_29 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 411px;
+		overflow: visible;
+	}
+	#View-Icon_ga {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_ga {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_ga {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_gb {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_30 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 481px;
+		overflow: visible;
+	}
+	#View-Icon_gc {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_gd {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_ge {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_gf {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_31 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 551px;
+		overflow: visible;
+	}
+	#View-Icon_gh {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_gi {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_gj {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_gk {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_32 {
+		position: absolute;
+		width: 121px;
+		height: 23px;
+		left: 0px;
+		top: 621px;
+		overflow: visible;
+	}
+	#View-Icon_gm {
+		position: absolute;
+		width: 23px;
+		height: 23px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Edit-Icon_gn {
+		position: absolute;
+		width: 19px;
+		height: 19px;
+		left: 35px;
+		top: 2px;
+		overflow: visible;
+	}
+	#Copy-Icon_go {
+		position: absolute;
+		width: 21px;
+		height: 21px;
+		left: 66px;
+		top: 1px;
+		overflow: visible;
+	}
+	#Delete-Icon_gp {
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 99px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Sellers_gq {
+		position: absolute;
+		width: 165px;
+		height: 37px;
+		left: 1047.345px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Rectangle_7_gr {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(200,200,200,1);
+		stroke-width: 0.800000011920929px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7_gr {
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#All_Sellers {
+		opacity: 0.5;
+		left: 15px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Arrow-Icon3 {
+		opacity: 0.5;
+		position: absolute;
+		width: 13px;
+		height: 13px;
+		left: 145px;
+		top: 14px;
+		overflow: visible;
+	}
+	#Sort_By {
+		position: absolute;
+		width: 165px;
+		height: 37px;
+		left: 1224.345px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Sort_By_gv {
+		position: absolute;
+		width: 165px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_7_gw {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(200,200,200,1);
+		stroke-width: 0.800000011920929px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7_gw {
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Sort_By_gx {
+		opacity: 0.5;
+		left: 15px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Arrow-Icon3_gy {
+		opacity: 0.5;
+		position: absolute;
+		width: 13px;
+		height: 13px;
+		left: 144px;
+		top: 13px;
+		overflow: visible;
+	}
+	#Bulk_Action {
+		position: absolute;
+		width: 113px;
+		height: 37px;
+		left: 922.345px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Rectangle_7_g {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(200,200,200,1);
+		stroke-width: 0.800000011920929px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_7_g {
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		height: 37px;
+		left: 0px;
+		top: 0px;
+	}
+	#Bulk_Action_g {
+		opacity: 0.5;
+		left: 15px;
+		top: 13px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Arrow-Icon3_g {
+		opacity: 0.5;
+		position: absolute;
+		width: 13px;
+		height: 13px;
+		left: 93px;
+		top: 13px;
+		overflow: visible;
+	}
+	#CheckBoxs {
+		position: absolute;
+		width: 20px;
+		height: 649px;
+		left: 28.345px;
+		top: 197px;
+		overflow: visible;
+	}
+	#CheckAll {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#checkbox-Icon {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 69px;
+		overflow: visible;
+	}
+	#checkbox-Icon_g {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 137px;
+		overflow: visible;
+	}
+	#checkbox-Icon_ha {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 204px;
+		overflow: visible;
+	}
+	#checkbox-Icon_hb {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 273px;
+		overflow: visible;
+	}
+	#checkbox-Icon_hc {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 344px;
+		overflow: visible;
+	}
+	#checkbox-Icon_hd {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 416px;
+		overflow: visible;
+	}
+	#checkbox-Icon_he {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 486px;
+		overflow: visible;
+	}
+	#checkbox-Icon_hf {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 558px;
+		overflow: visible;
+	}
+	#checkbox-Icon_hg {
+		position: absolute;
+		width: 20px;
+		height: 21px;
+		left: 0px;
+		top: 628px;
+		overflow: visible;
+	}
+	#Added_By {
+		position: absolute;
+		width: 158px;
+		height: 640px;
+		left: 376.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Added_By_hf {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hg {
+		left: 0px;
+		top: 66px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hh {
+		left: 0px;
+		top: 136px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hi {
+		left: 0px;
+		top: 206px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hj {
+		left: 0px;
+		top: 276px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hk {
+		left: 0px;
+		top: 346px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hl {
+		left: 0px;
+		top: 416px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hm {
+		left: 0px;
+		top: 486px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_hn {
+		left: 0px;
+		top: 556px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#projectteamanaqacom_ho {
+		left: 0px;
+		top: 626px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info {
+		position: absolute;
+		width: 152px;
+		height: 655px;
+		left: 598.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Info_hq {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 55px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498 {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0 {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_hv {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 124px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_hw {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_hx {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_hy {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_hz {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 193px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_h {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_h {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_h {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_h {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 262px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_ia {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_ia {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_ia {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_ia {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 331px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_ib {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_ib {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_ib {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_ib {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 400px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_ic {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_id {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_ie {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_if {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 469px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_ig {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_ih {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_ii {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_ij {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 538px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_ik {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_il {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_im {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Info-Null_in {
+		position: absolute;
+		width: 152px;
+		height: 48px;
+		left: 0px;
+		top: 607px;
+		overflow: visible;
+	}
+	#Num_of_Sale_0Times_io {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Base_Price_22498_ip {
+		left: 0px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Rating_0_iq {
+		left: 0px;
+		top: 32px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#TotalStock {
+		position: absolute;
+		width: 91px;
+		height: 642px;
+		left: 814.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Total_Stock {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 92px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10 {
+		left: 0px;
+		top: 57px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_iu {
+		left: 0px;
+		top: 127px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_iv {
+		left: 0px;
+		top: 197px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_iw {
+		left: 0px;
+		top: 267px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_ix {
+		left: 0px;
+		top: 337px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_iy {
+		left: 0px;
+		top: 407px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_iz {
+		left: 0px;
+		top: 472px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_i {
+		left: 0px;
+		top: 542px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Amethyst-10_Aqua-10_ja {
+		left: 0px;
+		top: 612px;
+		position: absolute;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#Todays_Deal {
+		position: absolute;
+		width: 100px;
+		height: 642px;
+		left: 967.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Todays_Deal_i {
+		left: 2px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#On-Icon {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 58px;
+		overflow: visible;
+	}
+	#On-Icon_i {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 128px;
+		overflow: visible;
+	}
+	#On-Icon_ja {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 198px;
+		overflow: visible;
+	}
+	#On-Icon_jb {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 268px;
+		overflow: visible;
+	}
+	#On-Icon_jc {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 338px;
+		overflow: visible;
+	}
+	#On-Icon_jd {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 408px;
+		overflow: visible;
+	}
+	#Off-Icon {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 478px;
+		overflow: visible;
+	}
+	#Off-Icon_jb {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 549px;
+		overflow: visible;
+	}
+	#Off-Icon_jc {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 620px;
+		overflow: visible;
+	}
+	#Published {
+		position: absolute;
+		width: 80px;
+		height: 642px;
+		left: 1129.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Published_je {
+		left: 2px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 79px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#On-Icon_jf {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 58px;
+		overflow: visible;
+	}
+	#On-Icon_jg {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 128px;
+		overflow: visible;
+	}
+	#On-Icon_jh {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 198px;
+		overflow: visible;
+	}
+	#On-Icon_ji {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 268px;
+		overflow: visible;
+	}
+	#On-Icon_jj {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 338px;
+		overflow: visible;
+	}
+	#On-Icon_jk {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 408px;
+		overflow: visible;
+	}
+	#Off-Icon_jl {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 478px;
+		overflow: visible;
+	}
+	#Off-Icon_jm {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 549px;
+		overflow: visible;
+	}
+	#Off-Icon_jn {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 620px;
+		overflow: visible;
+	}
+	#Featured {
+		position: absolute;
+		width: 74px;
+		height: 642px;
+		left: 1271.345px;
+		top: 203px;
+		overflow: visible;
+	}
+	#Featured_jp {
+		left: 2px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 1px;
+	}
+	#On-Icon_jq {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 58px;
+		overflow: visible;
+	}
+	#On-Icon_jr {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 128px;
+		overflow: visible;
+	}
+	#On-Icon_js {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 2px;
+		top: 198px;
+		overflow: visible;
+	}
+	#On-Icon_jt {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 268px;
+		overflow: visible;
+	}
+	#On-Icon_ju {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 338px;
+		overflow: visible;
+	}
+	#On-Icon_jv {
+		opacity: 0.9;
+		position: absolute;
+		width: 40px;
+		height: 21px;
+		left: 0px;
+		top: 408px;
+		overflow: visible;
+	}
+	#Off-Icon_jw {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 478px;
+		overflow: visible;
+	}
+	#Off-Icon_jx {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 549px;
+		overflow: visible;
+	}
+	#Off-Icon_jy {
+		position: absolute;
+		width: 40px;
+		height: 22px;
+		left: 0px;
+		top: 620px;
+		overflow: visible;
+	}
+	#Add_New_Product {
+		position: absolute;
+		width: 163px;
+		height: 46px;
+		left: 1428.345px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_22 {
+		fill: rgba(35,188,241,1);
+	}
+	.Rectangle_22 {
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		height: 46px;
+		left: 0px;
+		top: 0px;
+	}
+	#Add_New_Product_j {
+		left: 22px;
+		top: 16px;
+		position: absolute;
+		overflow: visible;
+		width: 120px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial Rounded MT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+		letter-spacing: 1px;
+	}

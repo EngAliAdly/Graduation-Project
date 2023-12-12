@@ -1,0 +1,82 @@
+    .Products
+{
+    height: 100vh;
+    background-color: #EFEFF1;
+    position: relative;
+}
+.allProducts
+{
+    width: 68%;
+}
+.allProducts button
+{
+    background-color: #F67A0C;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+.allProducts h4 
+{
+    
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.Product
+{
+    background-color: white;
+    width: 66%;
+
+}
+.Product11
+{
+    background-color: #EFEFF1;
+    width: 66%;
+
+}
+.Product h4 
+{
+    
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+button {
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 18px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+}
+
+button:hover {
+  background-color: #f7fafa;
+}
+
+button:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+button{
+    width: 50%;
+    margin-left:25%;
+    }
+    

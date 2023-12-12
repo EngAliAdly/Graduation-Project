@@ -1,0 +1,39 @@
+.shopsetting{
+    background-color:#EFF0F5 ;
+    height: 100%;
+}
+
+.shopset
+{
+    background-color: white; 
+    margin-bottom: 10px;
+    align-items: 60%;
+}
+
+.shopset h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.form-group .submit
+{
+    background-color: #F77B0A; color: #fff;
+}
+
+.form-group input
+{
+    box-shadow: white !important;
+}
+
+.form-control:focus {
+    border-color: orangered;
+}
+
+.form-group label 
+{
+ color: black;
+ font-size: 13px;
+ font-family: Arial, Helvetica, sans-serif;
+}

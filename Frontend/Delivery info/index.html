@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <link rel="stylesheet" href="css/all.min.css" />
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <section class="delivery-info my-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="titles d-flex justify-content-center align-items-center mt-5 w-75 m-auto">
+            <div class="mycart mx-3">
+              <h6 class="text "> 1. My Cart <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 2. Shipping <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text " id="red"> 3. Delivery Info <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 4. Payment <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 5. Confirmation </h6>
+            </div>
+          </div>
+          <div class="product-delivery shadow  mt-5 bg-body rounded">
+            <h4 class="tittle  p-3  ">Products</h4>
+            <div class="product mt-3  border border-1">
+              <div class="m-4 d-flex">
+                <img width="80px" src="./images/jacket-photo.png" alt="jacket-photo">
+                <h5 class="text m-4">jacket</h5>
+
+              </div>
+
+            </div>
+            <div class="delivery-way d-flex justify-content-between align-items-center w-75 p-3  ">
+              <div>
+                <h5 class=" delivery-text mb-5 mt-2">Choose Delivery Type</h5>
+              </div>
+              <div class="  mb-5 mt-2 ">
+                <input class=" " value="home" type="radio" name="deliveryType" id="deliveryType">
+                <label class=" mx-2" for="deliveryType">
+                  Home Delivery
+                </label>
+
+              </div>
+            </div>
+
+          </div>
+          <div class="d-flex justify-content-between align-items-center w-75 m-auto mt-5">
+            <div>
+              <a class="text-decoration-none" id="red" href="shop.index">Return to shop</a></div>
+              <div>
+                <button type="submit" for="deliveryType" href="payment.index" id="paymentBtn" class="btn  px-4">  <a class="text-decoration-none text-white" href="payment.index">Continue to Payment</a></button>
+              </div>
+    
+          </div>
+         
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+
+
+</body>
+
+</html>

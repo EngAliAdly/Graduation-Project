@@ -1,0 +1,205 @@
+html {
+  background: #EFF0F5;
+  font: 70%/1.5em "Trebuchet Ms", helvetica;
+}
+
+* {
+  box-sizing: border-box;
+  webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+p {
+  font-size: 1.5em;
+  color: #8a8a8a;
+}
+
+input {
+  border: 0em;
+  padding: 0.2em 0.3em; 
+  font-size: 1.5em;
+  color: #8a8a8a;
+  text-align: center;
+}
+
+img {
+  width: 25%; 
+  margin-right: 1em;
+}
+
+img[id="delete"] { 
+  width: 40px;
+  border-radius: 50%;
+  padding-left: 0px;
+}
+
+#delbtn{
+  border-radius:50%;
+  width: 43px;
+  height: 43px;
+  margin-left: 45px;
+  padding: 2px 0px;"
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 85%;
+  margin: 50px auto;  
+  overflow: hidden;
+  position: relative;
+}
+
+.table {
+  background: #ffffff;
+  border-radius: 0.6em;
+  overflow: hidden;
+  clear: both;
+  padding: 2em;
+  margin-bottom: 1.8em;
+}
+
+.layout-inline > * {
+  display: inline-block;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.th {
+  background: #ffffff;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.tf {
+  background: #f34d35;
+  text-transform: uppercase;
+  text-align: right;
+  font-size: 1.2em;  
+}
+
+.tf p {
+  color: #fff;
+  font-weight: bold;
+}
+
+.col {
+  padding: 1px;
+  width: 11%;
+}
+
+#subtotal-title {
+  display: inline; 
+}
+
+#col-Subtotal-text {
+  display: inline;
+}
+
+#col-Subtotal {
+  float: right;
+}
+
+.col-pro {
+  width: 37%;
+}
+
+.col-pro > * {
+  vertical-align: middle;
+}
+
+.col-qty {
+  text-align: center;
+  width: 16%;
+}
+
+.col-numeric p {
+  font: bold 20px Arial Rounded MT;
+  text-align: center;
+  color: black;
+}
+
+.col-total p {
+  color: #E52E04;
+  text-align: center;
+}
+
+.tf .col {
+  width: 20%;
+}
+
+.row > div {
+  vertical-align: middle;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.row-bg2 {
+  background: #f7f7f7;
+}
+
+.col-qty > * {
+  vertical-align: middle; 
+}
+
+.col-qty > input {
+  max-width: 2.6em;
+}
+
+a.qty {
+  width: 1em;
+  line-height: 1em;
+  border-radius: 2em;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  background: #c3c6cf;  
+  color: #FFFFFF;
+}
+
+a.qty:hover {
+  background: #3b9ac6;
+}
+
+.btn {
+  padding: 10px 30px;
+  border-radius: 0.3em;
+  font-size: 1.4em;
+  font-weight: bold;
+  background: #e52e04;
+  color: #e5e0e0;
+}
+
+.ret {
+  padding: 10px 5px;
+  font-size: 20px; 
+  font-weight: bold;
+  color: #E72D02;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.btn-continue {
+  float: right;
+  margin: 0 1.5em 1em;
+}
+
+@media screen and ( max-width: 800px) {
+  .container {
+    width: 98%;
+    padding: 20 px;
+  }
+  
+  .col-pro {
+    width: 35%;
+  }
+  
+  .col-qty {
+    width: 22%;
+  }

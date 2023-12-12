@@ -1,0 +1,94 @@
+ body
+{
+    background-color: #EFF0F5;
+}
+
+.product-delivery
+{
+    background-color: #fff;
+}
+
+.text
+{
+    color: #707070;
+    font-size: 17px;
+    font-weight:  500;
+    font-style: arial;
+    padding-bottom: 1px;
+}
+
+.mycart span
+{
+    color: #707070;
+    font-size: 20px;
+    font-weight:  500;
+    font-style: arial;
+}
+
+#red
+{
+    color: #E72D02;
+}
+
+.tittle 
+{
+    font-size: 15px;
+    font-weight:  500;
+    font-style: arial;
+
+}
+
+#delviryinfoBtn 
+{
+    color: white !important;
+    background-color: #E52E04;
+}
+
+#delviryinfoBtn a
+{
+    color: white !important;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: arial;
+}
+
+.address{
+  width: 50%;
+  border: 1px solid;
+  border-radius: 3%;
+  border-color:  #707070;
+  margin-right: 20px;
+}
+
+#addbtn{
+  border: none;
+  border-radius: 3%;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+#addimg{
+  width: 50px;
+  height: 50px;
+}
+
+#radd{
+  width: 20px;
+  height: 22px;
+  margin-left: 5px;
+  margin-top: 5px;
+  position: fixed;
+}
+
+input[type="radio"]:checked:after {
+    width: 18px;
+    height: 18px;
+    margin-top: 2px;
+    margin-left: 1px;
+    border-radius: 10px;
+    background-color: #E52E04;
+    content: '';
+    display: inline-block;
+    border: 3px solid white;
+}

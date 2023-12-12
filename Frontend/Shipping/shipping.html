@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>shipping</title>
+  <link rel="stylesheet" href="css/all.min.css" />
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <section class="delivery-info my-5">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="titles d-flex justify-content-center align-items-center mt-5 w-75 m-auto">
+            <div class="mycart mx-3">
+              <h6 class="text "> 1. My Cart <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text " id="red"> 2. Shipping <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 3. Delivery Info <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 4. Payment <span class="arrow mx-2">></span></h6>
+            </div>
+            <div class="mycart mx-3">
+              <h6 class="text "> 5. Confirmation </h6>
+            </div>
+          </div>
+          <div class="product-delivery shadow  mt-5 bg-body rounded">
+            <div class="product mt-3  border border-1">
+              <div class="m-4 d-flex">
+                <div class="address">
+                  <input id="radd" type="radio" name="Address" id="Address">
+                  <h5 class="text m-4">Address : </h5>
+                  <h5 class="text m-4">Postal Code : </h5>
+                  <h5 class="text m-4">City : </h5>
+                  <h5 class="text m-4">State : </h5>
+                  <h5 class="text m-4">Countary : </h5>
+                  <h5 class="text m-4">Phone : </h5>
+                </div>
+                <div class="address">
+                  <button id="addbtn">
+                    <a href="Add New Address.html">
+                    <img src="images/add_icon.png" id="addimg">
+                    <h5 class="text m-4">Add New Address</h5>
+                    </a>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="d-flex justify-content-between align-items-center w-75 m-auto mt-5">
+            <div>
+              <a class="text-decoration-none" id="red" href="shop.index">Return to shop</a></div>
+              <div>
+                <button type="submit" for="Address" href="payment.index" id="delviryinfoBtn" class="btn  px-4">  
+                  <a class="text-decoration-none text-white" href="delviryinfo.index">Continue to Delivery info</a>
+                </button>
+              </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

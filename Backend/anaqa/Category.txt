@@ -1,0 +1,170 @@
+prepared by Abdelrahman Mohamed Ramy
+
+Fashion Men ->0  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4soEgqNcKm-b2sEt0j4GWZ9nzN8UudTIp7HQhefBm2R19rjPRkXPyQ6J-w&s
+	Men Apparel ->1   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVs9H8HUBohKlT8YWOCbiQzOqtTMu8X5Zx1eGaKT7wL0geeJWBkI4g2sYaJ8g&s
+          	Men Apparel Topwear ->2  
+		Men Apparel Bottomwear
+		Men Apparel Innerwear
+		Men Apparel Loungewear and Nightwear
+		
+	Men Footwear ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-qqNyN-9vX4VRU4H-iYLPdwapdo6tkbCCjhM9yXO-gBFWW8wmxFswVt1rRg&s
+		Men Footwear Shoes
+		Men Footwear Sandal
+		Men Footwear Flip Flops
+	
+	Men Accessories ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThy0naD_FWVJXB_TeuRH0LeX6OLlOwrEO2YwnnMiqwtDGBPur70but9Q8Hhw&s
+		Men Accessories Headwear
+		Men Accessories Water Bottle
+		Men Accessories Bags
+		Men Accessories Socks
+		Men Accessories Accessories
+		Men Accessories Belts
+		Men Accessories Watches
+		Men Accessories Wallets
+		Men Accessories Eyewear
+		Men Accessories Ties
+		Men Accessories Stoles
+		Men Accessories Scarves
+		Men Accessories Mufflers
+		Men Accessories Cufflinks
+		Men Accessories Gloves
+		Men Accessories Jewellery
+		
+	Men Personal Care ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqzqYaXHJT_twTXr8m4RB6ZdP6XiKJwq2QyhNdqI0eV1SpS5yKn3HzNu8QhA&s
+		Men Personal Care Fragrance
+		Men Personal Care Bath and Body
+		Men Personal Care Perfumes
+		Men Personal Care Skin Care
+		Men Personal Care Hair
+
+	Men Sporting Goods ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7tqeBXExKuvyS9C7nrJPQ2AW2Hb4Z0PHDxGebexRymb98sAlUmEgzdJGwRQ&s
+
+ 		Men Sporting Goods Sports Equipment
+		Men Sporting Goods Wristbands
+
+
+Fashion Women  ->0  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEN8YFugBt1hw7dpPFG7eDnMhh7g31ieob_G7_-ESQC6ZC5Oubc7p5o0DEaw&s
+	Women Apparel ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkK6PnmOy0K_v9JI87Ef2oLy5v-J_0vzYGocWAaVyY69ie2DuTxafs8Dmf610&s
+		Women Apparel Topwear  
+		Women Apparel Topwear
+		Women Apparel Bottomwear
+		Women Apparel Apparel Set
+		Women Apparel Dress
+		Women Apparel Innerwear
+		Women Apparel Loungewear and Nightwear
+		Women Apparel Saree
+
+	Women Footwear ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRUSTVVz3r7X5EqhsoCihUvntYZDnCqWh3Hrgk8NYAUnQ2G1e6PRNzJNr_JY&s
+		Women Footwear Shoes
+		Women Footwear Sandal
+		Women Footwear Flip Flops
+
+	Women Accessories ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzr_UjuIcTbhYNGAugbXiegdk2qiaqaGBdTJcRIlEarGz-HUHQwvy8bKypn8k&s
+		Women Accessories Bags
+		Women Accessories Socks
+		Women Accessories Headwear
+		Women Accessories Watches
+		Women Accessories Eyewear
+		Women Accessories Scarves
+		Women Accessories Belts
+		Women Accessories Wallets
+		Women Accessories Jewellery
+		Women Accessories Umbrellas
+		Women Accessories Mufflers
+		Women Accessories Stoles
+		Women Accessories Cufflinks
+
+	Women Personal Care ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPl-rSqZVJ3KVc3psLXase8a_H0KVrIUDZtbVazTxWYUL_srEHGJsxiWcgrJo&s
+		Women Personal Care Fragrance
+		Women Personal Care Perfumes
+		Women Personal Care Eyes
+		Women Personal Care Nails
+		Women Personal Care Makeup
+		Women Personal Care Lips
+		Women Personal Care Skin Care
+		Women Personal Care Skin
+		Women Personal Care Beauty Accessories
+		Women Personal Care Bath and Body
+		Women Personal Care Hair
+
+	Women Sporting Goods ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7tqeBXExKuvyS9C7nrJPQ2AW2Hb4Z0PHDxGebexRymb98sAlUmEgzdJGwRQ&s
+ 		Women Sporting Goods Sports Equipment
+		Women Sporting Goods Wristbands
+
+
+Fashion Girls   ->0 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4CctAzI2PEkF5wCKVpxXwcyGX7m9BeulcjbPcKP814QoKGi_HgVW7qLTQg&s
+	Girls Apparel ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrP0vMba8HFdCtCUYLK6wriCIz1eIF2RJ_hOKODJq1wsP_qBjNICy1x0K0w&s
+		Girls Apparel Dress
+		Girls Apparel Topwear
+		Girls Apparel Bottomwear
+		Girls Apparel Apparel Set
+		Girls Apparel Socks
+		Girls Apparel Innerwear
+
+	Girls Footwear  ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQOtw8EF9oEG5l4r6cP2_7TEV_qq8aEVRAzhIwv0d0IgPKTl6NsfocDhVlQ&s
+		Girls Footwear Sandal
+		Girls Footwear Shoes
+		Girls Footwear Flip Flops
+
+	Girls Accessories  ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPJIp09GM-sNM0eoOS-WLsaxrmBvbINvsoCNtyk4YJ8-eaBIlFFpARv8-4Q&s
+		Girls Accessories Bags
+		Girls Accessories Watches
+		Girls Accessories Jewellery
+		Girls Accessories Gloves
+		Girls Accessories Headwear
+		Girls Accessories Eyewear
+
+	Girls Personal Care  ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPl-rSqZVJ3KVc3psLXase8a_H0KVrIUDZtbVazTxWYUL_srEHGJsxiWcgrJo&s
+		Girls Personal Care Fragrance
+		Girls Personal Care Perfumes
+		Girls Personal Care Eyes
+		Girls Personal Care Nails
+		Girls Personal Care Makeup
+		Girls Personal Care Lips
+		Girls Personal Care Skin Care
+		Girls Personal Care Skin
+		Girls Personal Care Beauty Accessories
+		Girls Personal Care Bath and Body
+		Girls Personal Care Hair		
+
+	Girls Sporting Goods ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7tqeBXExKuvyS9C7nrJPQ2AW2Hb4Z0PHDxGebexRymb98sAlUmEgzdJGwRQ&s
+ 		Girls Sporting Goods Sports Equipment
+		Girls Sporting Goods Wristbands
+
+
+Fashion Boys  ->0  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzekBozcAlQcobweEDKDYTUFSUY13gnQ1FcQvVMATh4O4GlZyelL6eZ_0sZw&s
+	Boys Apparel ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQ7JVQQMsG3mReJ2WqjtmoOuRDWkTPd8tPos7v3AMti4VliAV5iBd9uYhUbg&s
+		Boys Apparel Bottomwear
+		Boys Apparel Topwear
+		Boys Apparel Apparel Set
+		Boys Apparel Socks
+		Boys Apparel Innerwear
+
+	Boys Footwear ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvR8iJCJR845XxzFPWSbe4_epiDhJJWGXWwu-lQNnAOwcTo_z7g4kNdp8ThOw&s
+		Boys Footwear Shoes
+		Boys Footwear Flip Flops
+		Boys Footwear Sandal
+
+	Boys Accessories  ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXjo_iGyq1DVyNZFVVg81OsuQgckMQd7_sj-WO6ySYVd61WiZjCwgXKtRIUY&s
+		Boys Accessories Watches
+		Boys Accessories Socks
+		Boys Accessories Gloves
+		Boys Accessories Headwear
+		Boys Accessories Eyewear
+
+	Boys Personal Care  ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqzqYaXHJT_twTXr8m4RB6ZdP6XiKJwq2QyhNdqI0eV1SpS5yKn3HzNu8QhA&s
+		Boys Personal Care Fragrance
+		Boys Personal Care Perfumes
+		Boys Personal Care Eyes
+		Boys Personal Care Nails
+		Boys Personal Care Makeup
+		Boys Personal Care Lips
+		Boys Personal Care Skin Care
+		Boys Personal Care Skin
+		Boys Personal Care Beauty Accessories
+		Boys Personal Care Bath and Body
+		Boys Personal Care Hair		
+
+	Boys Sporting Goods ->1  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7tqeBXExKuvyS9C7nrJPQ2AW2Hb4Z0PHDxGebexRymb98sAlUmEgzdJGwRQ&s
+ 		Boys Sporting Goods Sports Equipment
+		Boys Sporting Goods Wristbands
